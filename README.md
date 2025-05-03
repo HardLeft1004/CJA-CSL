@@ -1,6 +1,7 @@
 # CJA-CSL
-csl for Chinese Journal of Aeronautics 
-this csl is modified from https://github.com/citation-style-language/styles/blob/master/chinese-journal-of-aeronautics.csl
+csl for Chinese Journal of Aeronautics. 
+
+This csl is modified from https://github.com/citation-style-language/styles/blob/master/chinese-journal-of-aeronautics.csl
 1. add <contributor> metadata for YZW and refresh <updated> timestamp
 2. introduce zh locale with custom term lang-suffix → “[Chinese]”. create new lang-note macro; append it to bibliography layout for Chinese items
 3. switch author macro to use initials (initialize="true", empty initialize-with)
