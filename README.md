@@ -15,3 +15,4 @@ This csl file has been tested in Zotero 7 and works fine
 4. 在参考文献中将引用编号输出为“N.” (数字+点+空格)
 5. 修改网页布局：删除标题后的多余句点，并插入“[Internet].”标记以确保标点符号正确
 这个csl文件在zotero 7中经过测试，可以正常使用
+航空学报，航空学报（英文版），中国航空学报，
